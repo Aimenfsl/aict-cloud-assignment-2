@@ -15,7 +15,7 @@ The script uses the following set of values:
 
 **max(readings)**: Gives the largest value in a set.
 
-**sum(readings)/len(readings)**: Calculates the average of all the values in a given set.
+**sum(readings)/len(readings)**: Calculates the average of all the values in a given set of values.
 
 
 ## Instructions on how to run the Python script
