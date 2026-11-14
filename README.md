@@ -11,11 +11,11 @@ The script uses the following set of values:
 
 **len(readings)**: Computes the total number of values in a set.
 
-**min(readings)**: Gives the smallest value in a set.
+**min(readings)**: Gives the smallest recorded value in a set.
 
-**max(readings)**: Gives the largest value in a set.
+**max(readings)**: Gives the largest recorded value in a set.
 
-**sum(readings)/len(readings)**: Calculates the average of all the values in a given set of values.
+**sum(readings)/len(readings)**: Sums up all the values and divides it by the count to give the average.
 
 
 ## Instructions on how to run the Python script
