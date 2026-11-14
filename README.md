@@ -19,10 +19,10 @@ The script uses the following set of values:
 
 
 ## Instructions on how to run the Python script
-Download the Python file from this repository.
+1. Download the Python file from this repository.
 
-Go to google colab [colab.research.google.com] and upload the notebook.
+2. Go to google colab [colab.research.google.com] and upload the notebook.
 
-Click on the **run** icon or simultaneously press **shift+enter** to execute the code on colab.
+3. Click on the **run** icon or simultaneously press **shift+enter** to execute the code.
 
 
